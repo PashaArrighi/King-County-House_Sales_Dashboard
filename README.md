@@ -18,14 +18,11 @@ This project features an **interactive Tableau dashboard** analyzing housing mar
 ## 📊 Dashboard
 The **interactive dashboard** is available on [Tableau Public](https://public.tableau.com/app/profile/pasha.arrighi/viz/KingCountyHouseSalesDashboard_17319232505720/KingCountyHouseSales).
 
-![Dashboard Preview](dashboard_preview_image.png)  
-*Visualizing King County's housing market dynamics.*
-
 ---
 
 ## 📂 Dataset
-- **Source**: [Kaggle - King County House Sales Data](https://www.kaggle.com/datasets)
-- **File**: `King_County_House_Sales.csv`
+- **Source**: [King County House Sales Data (Kaggle)](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction)
+- **File**: `kc_house_data.csv`
 - **Features**:
   - Sales Price
   - Location (Latitude/Longitude)
